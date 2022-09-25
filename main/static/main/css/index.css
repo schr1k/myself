@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.stepik {
+    color: #129ee0;
+
+}
+
+.stepik:hover {
+    color: #0a0aea;
+}
+
+.my_photo {
+    width: 400px;
+    height: 500px;
+}
